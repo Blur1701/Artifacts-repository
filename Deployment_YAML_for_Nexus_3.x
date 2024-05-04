@@ -1,3 +1,4 @@
+#deployment for installation operation sysem Nexus. It's not the repository
 apiVersion: apps/v1
 kind: Deployment
 metadata:
