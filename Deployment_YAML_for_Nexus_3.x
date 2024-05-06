@@ -1,4 +1,5 @@
 #deployment for installation operation sysem Nexus. It's not the repository
+#Это файл деплоймента для операционной системы Nexus. Не для репозитория.
 apiVersion: apps/v1
 kind: Deployment
 metadata:
